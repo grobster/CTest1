@@ -1,0 +1,14 @@
+﻿  Test1.c
+C:\Users\Jeff\OneDrive\School\2023\Spring2023\C_Programming_SET-151\week5\assignments\Test1\Test1\Test1.c(125,15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Jeff\OneDrive\School\2023\Spring2023\C_Programming_SET-151\week5\assignments\Test1\Test1\Test1.c(153,15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Jeff\OneDrive\School\2023\Spring2023\C_Programming_SET-151\week5\assignments\Test1\Test1\Test1.c(181,15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Jeff\OneDrive\School\2023\Spring2023\C_Programming_SET-151\week5\assignments\Test1\Test1\Test1.c(208,15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Jeff\OneDrive\School\2023\Spring2023\C_Programming_SET-151\week5\assignments\Test1\Test1\Test1.c(230,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Jeff\OneDrive\School\2023\Spring2023\C_Programming_SET-151\week5\assignments\Test1\Test1\Test1.c(231,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Jeff\OneDrive\School\2023\Spring2023\C_Programming_SET-151\week5\assignments\Test1\Test1\Test1.c(232,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Jeff\OneDrive\School\2023\Spring2023\C_Programming_SET-151\week5\assignments\Test1\Test1\Test1.c(233,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Jeff\OneDrive\School\2023\Spring2023\C_Programming_SET-151\week5\assignments\Test1\Test1\Test1.c(235,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Jeff\OneDrive\School\2023\Spring2023\C_Programming_SET-151\week5\assignments\Test1\Test1\Test1.c(236,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Jeff\OneDrive\School\2023\Spring2023\C_Programming_SET-151\week5\assignments\Test1\Test1\Test1.c(237,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Jeff\OneDrive\School\2023\Spring2023\C_Programming_SET-151\week5\assignments\Test1\Test1\Test1.c(397,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Test1.vcxproj -> C:\Users\Jeff\OneDrive\School\2023\Spring2023\C_Programming_SET-151\week5\assignments\Test1\Debug\Test1.exe
